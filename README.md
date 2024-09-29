@@ -1,5 +1,10 @@
 # Test technique Alten Shop
 
+## Lien de l'API en ligne
+
+L'API est accessible en ligne à l'adresse suivante :
+[https://alten-shop.anasfarih.com/](https://alten-shop.anasfarih.com/)
+
 ## But du Projet
 
 Ce projet est une API RESTful construite avec Symfony, permettant la gestion des produits dans un inventaire. Les utilisateurs peuvent effectuer des opérations de base telles que la création, la récupération, la mise à jour et la suppression de produits. L'API prend également en charge la recherche et la pagination des produits.
